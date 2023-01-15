@@ -72,12 +72,13 @@ label a{
   font-size: 2rem;
   color: #fff;
 }
-.main-plans{
-  text-align: center;
-}
+
   
 .plans-container{
   padding-bottom: 70px;
+  width: 80%;
+  margin: auto;
+
 }
 
 .plans{
